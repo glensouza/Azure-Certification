@@ -27,3 +27,9 @@ Scheduled testing 6/28 2 PM
 - [GitHub Actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
 - [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
 - [GitHub Administration](https://learn.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
+
+## Other resources
+
+- [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza-7934)
+- [Practice Tests](https://teams.measureup.com/teams/tests/student)
+- [Pearson | Vue = Testing](https://home.pearsonvue.com/microsoft)
