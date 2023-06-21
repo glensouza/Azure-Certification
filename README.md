@@ -25,4 +25,4 @@ Scheduled testing 6/28 2 PM
 - [GitHub Skills](https://skills.github.com)
 - [GitHub Actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
 - [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
-- [https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey](https://learn.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
+- [GitHub Administration](https://learn.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
