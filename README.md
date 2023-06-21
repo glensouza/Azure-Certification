@@ -6,6 +6,7 @@ Scheduled testing 6/28 2 PM
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/AZ-900)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/az-900-microsoft-azure-fundamentals)
 
 ## AZ-204 - Azure Developer Associate
