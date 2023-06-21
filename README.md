@@ -1,6 +1,6 @@
 # Azure Certification
 
-##AZ-900 - Azure Fundamentals
+## AZ-900 - Azure Fundamentals
 
 - <https://learn.microsoft.com/en-us/certifications/azure-fundamentals>
 - <https://learn.microsoft.com/en-us/certifications/exams/az-900>
