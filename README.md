@@ -31,6 +31,6 @@
 
 ## Other resources
 
-- [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza-7934)
+- [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
 - [Practice Tests](https://teams.measureup.com/teams/tests/student)
 - [Pearson | Vue = Testing](https://home.pearsonvue.com/microsoft)
