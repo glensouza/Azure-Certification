@@ -10,7 +10,7 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/az-900-microsoft-azure-fundamentals)
 - [Certification](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza-7934/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
 
-## AZ-104 - Microsoft Certified: Azure Administrator Associate
+## AZ-104 - Azure Administrator Associate
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-104)
