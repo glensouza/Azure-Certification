@@ -20,7 +20,7 @@
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900)
 
-### ***AZ-900 - Azure Fundamentals***
+### ***AZ-900 - Azure Fundamentals (6/28/23)***
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
