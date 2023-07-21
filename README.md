@@ -1,54 +1,107 @@
 # Azure Certification
 
-![Certificate](https://www.c-sharpcorner.com/article/how-to-easily-az-900-microsoft-azure-fundamentals-certification-exam/Images/How%20To%20Easily%20Pass%20AZ-900%20Microsoft%20Azure%20Fundamentals%20Certification%20Exam2.png)
-
 ![Pre-requisites](prerequisites.drawio.png)
 
-## ***AZ-900 * - Azure Fundamentals***
+## Specialty
 
+### DP-420 - Azure Cosmos DB Developer Specialty
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/azure-cosmos-db-developer-specialty)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/dp-420/)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/dp-420)
+
+## Fundamentals *
+
+### AI-900 - Azure AI Fundamentals
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900)
+
+### ***AZ-900 - Azure Fundamentals***
+
+- Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/AZ-900)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/az-900-microsoft-azure-fundamentals)
+- [Pluralsight](https://app.pluralsight.com/library/courses/az-900-microsoft-azure-fundamentals-2)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
 
-## AZ-104 - Azure Administrator Associate
+### PL-900 - Power Platform Fundamentals
 
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals)
+- [Exams]https://learn.microsoft.com/en-us/certifications/exams/pl-900)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900)
+- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-fundamentals-pl-900)
+
+## Associate **
+
+### AI-102 - Azure AI Engineer Associate
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-102)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-102)
+- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
+
+### AZ-104 - Azure Administrator Associate
+
+- Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-104)
-- [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep/table-of-contents)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104)
+- [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 
-## AZ-104 ** - Azure Administrator Associate
+### AZ-204 - Azure Developer Associate (*8/16*)
 
-Pre-requisites: AZ-900
-
-- [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
-- [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-104)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/azure-administrator-az-104)
-
-## AZ-204 ** - Azure Developer Associate (*8/16*)
-
-Pre-requisites: AZ-900
-
+- Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
+- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-developer-pl-400)
 
-## AZ-305 *** - Azure Solutions Architect Expert
+### PL-400 - Power Platform Developer Associate
 
-Pre-requisites: AZ-104
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-developer-associate)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-400)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-400)
+- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-developer-associate-pl-400)
 
+## Expert ***
+
+### 62-193 - Technology Literacy for Educators
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/microsoft-certified-educator)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/62-193)
+- [Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU)
+
+### AZ-305 - Azure Solutions Architect Expert
+
+- Pre-requisites: AZ-104
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-305)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/az-305-designing-microsoft-azure-infrastructure-solutions)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-305)
+- [Pluralsight](https://app.pluralsight.com/library/courses/az-305-designing-microsoft-azure-infrastructure-solutions)
 
-## AZ-400 *** - DevOps Engineer Expert
+### AZ-400 - DevOps Engineer Expert (*9/1*)
 
-Pre-requisites: AZ-204
-
+- Pre-requisites: AZ-104 or AZ-204
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-400)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/az-400-designing-and-implementing-microsoft-devops-solutions)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-400)
+- [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
+
+### PL-600 - Power Platform Solution Architect Expert
+
+- Pre-requisites: PL-200 or PL-400
+- [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-solution-architect-expert)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-600)
+- [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-600)
 
 ## GitHub
 
