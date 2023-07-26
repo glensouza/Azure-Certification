@@ -1,5 +1,7 @@
 # Azure Certification
 
+[My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials)
+
 ![Pre-requisites](prerequisites.drawio.png)
 
 ## Specialty
