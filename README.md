@@ -33,7 +33,7 @@
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals)
-- [Exams]https://learn.microsoft.com/en-us/certifications/exams/pl-900)
+- [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-fundamentals-pl-900)
 
@@ -46,6 +46,7 @@
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-102)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-102)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
+- [John Savill](https://youtu.be/I7fdWafTcPY)
 
 ### AZ-104 - Azure Administrator Associate
 
