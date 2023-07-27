@@ -64,7 +64,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
-- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-developer-pl-400)
+- [Pluralsight](-https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
 
 ### PL-400 - Power Platform Developer Associate
 
