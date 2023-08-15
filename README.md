@@ -116,5 +116,5 @@
 ## Other resources
 
 - [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
-- [Practice Tests](https://teams.measureup.com/teams/tests/student)
+- [Practice Tests](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
