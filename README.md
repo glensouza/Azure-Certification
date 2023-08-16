@@ -58,14 +58,14 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 
-### AZ-204 - Azure Developer Associate (*8/16*)
+### AZ-204 - Azure Developer Associate (*8/16/23-24*)
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
-- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
+- [My Certificate](https://learn.microsoft.com/en-us/users/glensouza/credentials/c9e8b1a6c261c402)
 
 ### PL-400 - Power Platform Developer Associate
 
