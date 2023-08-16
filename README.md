@@ -21,6 +21,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 
 ### ***AZ-900 - Azure Fundamentals (6/28/23)***
 
@@ -28,6 +29,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/AZ-900)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-900-microsoft-azure-fundamentals-2)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
 
@@ -37,6 +39,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/pl-900/practice/assessment?assessment-type=practice&assessmentId=34)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-fundamentals-pl-900)
 
 ## Associate **
@@ -47,23 +50,26 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-102)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-102)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-102/practice/assessment?assessment-type=practice&assessmentId=61)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
 
-### AZ-104 - Azure Administrator Associate
+### AZ-104 - Azure Administrator Associate (*9/27*)
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-104)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 
-### AZ-204 - Azure Developer Associate (*8/16/23-24*)
+### ***AZ-204 - Azure Developer Associate (8/16/23-24)***
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
 - [My Certificate](https://learn.microsoft.com/en-us/users/glensouza/credentials/c9e8b1a6c261c402)
 
@@ -73,6 +79,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-developer-associate)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-400)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-400)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/pl-400/practice/assessment?assessment-type=practice&assessmentId=66)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-developer-associate-pl-400)
 
 ## Expert ***
@@ -90,6 +97,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-305)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-305)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-305/practice/assessment?assessment-type=practice&assessmentId=15)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-305-designing-microsoft-azure-infrastructure-solutions)
 
 ### AZ-400 - DevOps Engineer Expert (*9/1*)
@@ -98,6 +106,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-400)
+- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
 
 ### PL-600 - Power Platform Solution Architect Expert
