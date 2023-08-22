@@ -128,4 +128,5 @@
 - [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
 - [Practice Tests](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
+- [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 - [Value-Based Delivery (VBD) Accreditations](./VBD.md)
