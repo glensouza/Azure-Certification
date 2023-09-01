@@ -2,6 +2,31 @@
 
 [My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials)
 
+| Certification | Date | Expiration |
+| --- | --- | --- |
+| [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 |  |
+| [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ** | 8/16/23 | 8/15/24 |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-24) *** | 9/1/23 | 8/31/24 |
+
+Scheduled Exams:
+
+| Certification | Date |
+| --- | --- |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-1011) ** | 10/11 |
+| [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
+
+Next:
+
+| Certification |
+| --- |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate) ** |
+| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) *** |
+| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty) |
+| [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) *** |
+| [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) * |
+| [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ** |
+| [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) *** |
+
 ![Pre-requisites](prerequisites.drawio.png)
 
 ## Specialty
@@ -15,7 +40,7 @@
 
 ## Fundamentals *
 
-### AI-900 - Azure AI Fundamentals
+### AI-900 - Azure AI Fundamentals (*11/9*)
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals)
@@ -54,7 +79,7 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
 
-### AZ-104 - Azure Administrator Associate (*9/27*)
+### AZ-104 - Azure Administrator Associate (*10/11*)
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
@@ -71,7 +96,7 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
-- [My Certificate](https://learn.microsoft.com/en-us/users/glensouza/credentials/c9e8b1a6c261c402)
+- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
 
 ### PL-400 - Power Platform Developer Associate
 
@@ -100,7 +125,7 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-305/practice/assessment?assessment-type=practice&assessmentId=15)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-305-designing-microsoft-azure-infrastructure-solutions)
 
-### AZ-400 - DevOps Engineer Expert (*9/1*)
+### ***AZ-400 - DevOps Engineer Expert (9/1/23-24)***
 
 - Pre-requisites: AZ-104 or AZ-204
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
@@ -108,6 +133,7 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-400)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
+- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/A4292AD2074A690F?sharingId=670D3D659176C7C3)
 
 ### PL-600 - Power Platform Solution Architect Expert
 
