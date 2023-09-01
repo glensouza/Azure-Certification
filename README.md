@@ -15,7 +15,7 @@ Scheduled Exams:
 | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-1011) ** | 10/11 |
 | [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
 
-Next:
+Next in Queue:
 
 | Certification |
 | --- |
@@ -156,3 +156,4 @@ Next:
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 - [Value-Based Delivery (VBD) Accreditations](./VBD.md)
+- [College Credit](https://learn.microsoft.com/en-us/certifications/college-credit)
