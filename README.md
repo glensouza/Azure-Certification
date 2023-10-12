@@ -4,28 +4,30 @@
 
 | Certification | Date | Expiration |
 | --- | --- | --- |
-| [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 |  |
+| [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 | -- |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ** | 10/11/23 | 10/11/24 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ** | 8/16/23 | 8/15/24 |
-| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-24) *** | 9/1/23 | 10/11/24 |
-| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-1011) ** | 10/11/23 | 10/11/24 |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) *** | 9/1/23 | 10/11/24 |
 
-Scheduled Exams:
+## Scheduled Exams
 
 | Certification | Date |
 | --- | --- |
 | [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate) ** | 11/17 |
 
-Next in Queue:
+## Next in Queue
 
 | Certification |
 | --- |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate) ** |
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) *** |
 | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty) |
 | [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) *** |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) * |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ** |
 | [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) *** |
+
+## Full Picture
 
 ![Pre-requisites](prerequisites.drawio.png)
 
@@ -79,7 +81,7 @@ Next in Queue:
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
 
-### AZ-104 - Azure Administrator Associate (*10/11*)
+### ***AZ-104 - Azure Administrator Associate (10/11/23-24)***
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
@@ -125,7 +127,7 @@ Next in Queue:
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-305/practice/assessment?assessment-type=practice&assessmentId=15)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-305-designing-microsoft-azure-infrastructure-solutions)
 
-### ***AZ-400 - DevOps Engineer Expert (9/1/23-24)***
+### ***AZ-400 - DevOps Engineer Expert (9/1/23-10/11/24)***
 
 - Pre-requisites: AZ-104 or AZ-204
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
