@@ -29,7 +29,7 @@
 
 ## Full Picture
 
-![Pre-requisites](prerequisites.drawio.png)
+![Pre-requisites](fullpicture.drawio.png)
 
 ## Specialty
 
@@ -120,7 +120,7 @@
 
 ### AZ-305 - Azure Solutions Architect Expert
 
-- Pre-requisites: AZ-104
+- Pre-requisites: [AZ-104](#az-104---azure-administrator-associate-101123-24) or [AZ-204](#az-204---azure-developer-associate-81623-24)
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-305)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-305)
@@ -129,7 +129,7 @@
 
 ### ***AZ-400 - DevOps Engineer Expert (9/1/23-10/11/24)***
 
-- Pre-requisites: AZ-104 or AZ-204
+- Pre-requisites: [AZ-104](#az-104---azure-administrator-associate-101123-24) or [AZ-204](#az-204---azure-developer-associate-81623-24)
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-400)
@@ -139,7 +139,7 @@
 
 ### PL-600 - Power Platform Solution Architect Expert
 
-- Pre-requisites: PL-200 or PL-400
+- Pre-requisites: [PL-200](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate) or [PL-400](#pl-400---power-platform-developer-associate)
 - [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-solution-architect-expert)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-600)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-600)
