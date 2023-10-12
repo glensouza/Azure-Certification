@@ -1,6 +1,6 @@
 # Azure Certification
 
-[My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials)
+## [My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials)
 
 | Certification | Date | Expiration |
 | --- | --- | --- |
