@@ -14,7 +14,7 @@
 | Certification | Date |
 | --- | --- |
 | [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate) ** | 11/17 |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-1117) ** | 11/17 |
 
 ## Next in Queue
 
@@ -71,7 +71,7 @@
 
 ## Associate **
 
-### AI-102 - Azure AI Engineer Associate
+### AI-102 - Azure AI Engineer Associate (*11/17*)
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer)
