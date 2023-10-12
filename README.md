@@ -6,13 +6,13 @@
 | --- | --- | --- |
 | [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 |  |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ** | 8/16/23 | 8/15/24 |
-| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-24) *** | 9/1/23 | 8/31/24 |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-24) *** | 9/1/23 | 10/11/24 |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-1011) ** | 10/11/23 | 10/11/24 |
 
 Scheduled Exams:
 
 | Certification | Date |
 | --- | --- |
-| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-1011) ** | 10/11 |
 | [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
 
 Next in Queue:
