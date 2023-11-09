@@ -23,6 +23,7 @@
 | --- |
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) *** |
 | [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) *** |
+| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) * |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) * |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ** |
 | [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) *** |
@@ -60,6 +61,15 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-900-microsoft-azure-fundamentals-2)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
+
+### DP-900 - Azure Data Fundamentals
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals)
+- [Exams](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900)
+- [Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900)
+- [Practice Test](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900/practice/assessment?assessment-type=practice&assessmentId=24)
+- [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-dp-900-azure-data-fundamentals)
 
 ### PL-900 - Power Platform Fundamentals
 
