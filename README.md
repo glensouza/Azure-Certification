@@ -4,6 +4,7 @@
 
 | Certification | Date | Expiration |
 | --- | --- | --- |
+| [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-11923) * | 11/9/23 | -- |
 | [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 | -- |
 | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ** | 10/11/23 | 10/11/24 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ** | 8/16/23 | 8/15/24 |
@@ -13,15 +14,14 @@
 
 | Certification | Date |
 | --- | --- |
-| [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-119) * | 11/9 |
 | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-1117) ** | 11/17 |
+| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty) | 12/6 |
 
 ## Next in Queue
 
 | Certification |
 | --- |
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) *** |
-| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty) |
 | [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) *** |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) * |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ** |
@@ -42,13 +42,14 @@
 
 ## Fundamentals *
 
-### AI-900 - Azure AI Fundamentals (*11/9*)
+### ***AI-900 - Azure AI Fundamentals (11/9/23)***
 
 - Pre-requisites: None
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
+- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C728DE847B15CCF8?sharingId=670D3D659176C7C3)
 
 ### ***AZ-900 - Azure Fundamentals (6/28/23)***
 
