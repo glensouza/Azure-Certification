@@ -24,6 +24,7 @@
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) *** |
 | [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) *** |
 | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) * |
+| [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ** |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) * |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ** |
 | [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) *** |
@@ -111,6 +112,14 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
 
+### DP-300 - Azure Database Administrator Associate
+
+- Pre-requisites: None
+- [Certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate)
+- [Exams](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-300)
+- [Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-300)
+- [Practice Test](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-300/practice/assessment?assessment-type=practice&assessmentId=58)
+
 ### PL-400 - Power Platform Developer Associate
 
 - Pre-requisites: None
@@ -128,6 +137,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/microsoft-certified-educator)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/62-193)
 - [Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU)
+- [Skills Measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU)
 
 ### AZ-305 - Azure Solutions Architect Expert
 
@@ -170,3 +180,4 @@
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 - [Value-Based Delivery (VBD) Accreditations](./VBD.md)
 - [College Credit](https://learn.microsoft.com/en-us/certifications/college-credit)
+- [Certification Poster](https://aka.ms/TrainCertPoster)
