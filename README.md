@@ -4,8 +4,8 @@
 
 | Certification | Date | Expiration |
 | --- | --- | --- |
-| [AI-900 Azure AI](#ai-900---azure-ai-fundamentals-11923) * | 11/9/23 | -- |
-| [AZ-900 Azure](#az-900---azure-fundamentals-62823) * | 6/28/23 | -- |
+| [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) * | 11/9/23 | -- |
+| [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) * | 6/28/23 | -- |
 | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ** | 10/11/23 | 10/11/24 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ** | 8/16/23 | 8/15/24 |
 | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) *** | 9/1/23 | 10/11/24 |
