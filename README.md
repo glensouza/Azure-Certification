@@ -14,8 +14,8 @@
 
 | Certification | Date |
 | --- | --- |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-1117) ** | 11/17 |
 | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty) | 12/6 |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-1117) ** | 12/8 |
 
 ## Next in Queue
 
