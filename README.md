@@ -51,6 +51,8 @@
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
+- [John Savill 1/2](https://youtu.be/E9aarWMLJw0)
+- [John Savill 2/2](https://youtu.be/Ch6KE7KxHGM)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C728DE847B15CCF8?sharingId=670D3D659176C7C3)
 
 ### ***AZ-900 - Azure Fundamentals (6/28/23)***
@@ -101,6 +103,7 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
+- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
 
 ### ***AZ-204 - Azure Developer Associate (8/16/23-24)***
 
