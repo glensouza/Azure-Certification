@@ -53,7 +53,8 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 - [John Savill 1/2](https://youtu.be/E9aarWMLJw0)
 - [John Savill 2/2](https://youtu.be/Ch6KE7KxHGM)
-- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C728DE847B15CCF8?sharingId=670D3D659176C7C3)
+- [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C728DE847B15CCF8?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./AI-900_2023.pdf)
 
 ### ***AZ-900 - Azure Fundamentals (6/28/23)***
 
@@ -63,7 +64,8 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/AZ-900)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-900-microsoft-azure-fundamentals-2)
-- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
+- [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./AZ-900_2023.pdf)
 
 ### DP-900 - Azure Data Fundamentals
 
@@ -113,7 +115,8 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-204)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
-- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
+- [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./AZ-204_2024.pdf)
 
 ### DP-300 - Azure Database Administrator Associate
 
@@ -159,7 +162,8 @@
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-400)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
-- [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/A4292AD2074A690F?sharingId=670D3D659176C7C3)
+- [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/A4292AD2074A690F?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./AZ-400_2024.pdf)
 
 ### PL-600 - Power Platform Solution Architect Expert
 
