@@ -2,31 +2,31 @@
 
 ## [My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials?tab=credentials-tab)
 
-| Certification | Date | Expiration |
+| Certification | Cost | Date | Expiration |
 | --- | --- | --- |
-| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | 12/6/23 | 12/6/24 |
-| [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | 11/9/23 | -- |
-| [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | 6/28/23 | -- |
-| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | 10/11/23 | 10/11/24 |
-| [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | 8/16/23 | 8/15/24 |
-| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | 9/1/23 | 10/11/24 |
+| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 |
+| [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- |
+| [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 |
+| [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 |
 
 ## Scheduled Exams
 
-| Certification | Date |
+| Certification | Cost | Date |
 | --- | --- |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-1117) ⭐⭐ | 12/8 |
-| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) ⭐⭐⭐ | 2/7 |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-128) ⭐⭐ | $165 | 12/8 |
+| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) ⭐⭐⭐ | $165 | 2/7 |
 
 ## Next in Queue
 
-| Certification |
+| Certification | $ |
 | --- |
-| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ |
-| [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ |
-| [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ |
-| [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ⭐⭐ |
-| [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) ⭐⭐⭐ |
+| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ | $99 |
+| [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ | $165 |
+| [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ | $99 |
+| [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ⭐⭐ | $99 |
+| [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert) ⭐⭐⭐ | $165 |
 
 ## Full Picture
 
