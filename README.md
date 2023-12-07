@@ -22,7 +22,6 @@
 
 | Certification |
 | --- |
-| [62-193 Technology Literacy for Educators](#62-193---technology-literacy-for-educators) ⭐⭐⭐ |
 | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ |
 | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ |
@@ -128,13 +127,6 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-developer-associate-pl-400)
 
 ## Expert ⭐⭐⭐
-
-### 62-193 - Technology Literacy for Educators
-
-- [Certification](https://learn.microsoft.com/en-us/certifications/microsoft-certified-educator)
-- [Exams](https://learn.microsoft.com/en-us/certifications/exams/62-193) $127
-- [Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU)
-- [Skills Measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU)
 
 ### AZ-305 - Azure Solutions Architect Expert (*2/7*)
 
