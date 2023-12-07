@@ -3,7 +3,7 @@
 ## [My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials?tab=credentials-tab)
 
 | Certification | Cost | Date | Expiration |
-| --- | --- | --- |
+| --- | ---:| --- | --- |
 | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 |
 | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- |
 | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- |
@@ -14,14 +14,14 @@
 ## Scheduled Exams
 
 | Certification | Cost | Date |
-| --- | --- |
+| --- | ---:| --- |
 | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-128) ⭐⭐ | $165 | 12/8 |
-| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) ⭐⭐⭐ | $165 | 2/7 |
+| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 | 2/7 |
 
 ## Next in Queue
 
-| Certification | $ |
-| --- |
+| Certification | Cost |
+| --- | ---:|
 | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ | $99 |
 | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ | $165 |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ | $99 |
