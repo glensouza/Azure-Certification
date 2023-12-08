@@ -88,7 +88,7 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-102) $165
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-102)
-- [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/ai-102/practice/assessment?assessment-type=practice&assessmentId=61)
+- [Practice Test](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-102/practice/assessment?assessment-type=practice&assessmentId=61)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
 
