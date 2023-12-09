@@ -17,12 +17,12 @@
 | Certification | Cost | Date |
 | --- | ---:| --- |
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 | 2/7 |
+| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-220) ⭐ | $99 | 2/20 |
 
 ## Next in Queue
 
 | Certification | Cost |
 | --- | ---:|
-| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ | $99 |
 | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ | $165 |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ | $99 |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ⭐⭐ | $99 |
@@ -65,7 +65,7 @@
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
 - [My Certificate PDF](./AZ-900_2023.pdf)
 
-### DP-900 - Azure Data Fundamentals
+### DP-900 - Azure Data Fundamentals (*2/20*)
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-900) $99
