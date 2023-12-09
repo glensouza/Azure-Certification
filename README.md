@@ -7,6 +7,7 @@
 | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 |
 | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- |
 | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 |
 | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 |
 | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 |
@@ -15,7 +16,6 @@
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-128) ⭐⭐ | $165 | 12/8 |
 | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 | 2/7 |
 
 ## Next in Queue
@@ -83,7 +83,7 @@
 
 ## Associate ⭐⭐
 
-### AI-102 - Azure AI Engineer Associate (*12/8*)
+### ***AI-102 - Azure AI Engineer Associate (12/8/23-24)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-ai-engineer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/ai-102) $165
@@ -91,6 +91,8 @@
 - [Practice Test](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-102/practice/assessment?assessment-type=practice&assessmentId=61)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
+- [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/156CFC460DF071EB?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./AI-102_2023.pdf)
 
 ### ***AZ-104 - Azure Administrator Associate (10/11/23-24)***
 
