@@ -16,8 +16,8 @@
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 | 2/7 |
-| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-220) ⭐ | $99 | 2/20 |
+| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 | unknown |
+| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-220) ⭐ | $99 | unknown |
 
 ## Next in Queue
 
