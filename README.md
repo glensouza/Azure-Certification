@@ -8,7 +8,7 @@
 | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- | |
 | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- | |
 | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | 12/8/25 |
-| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | 10/11/25 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 8/16/2025 |
 | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | |
 
@@ -96,7 +96,7 @@
 - [My Certificate PDF](./AI-102_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/renew)
 
-### ***AZ-104 - Azure Administrator Associate (10/11/23-24)***
+### ***AZ-104 - Azure Administrator Associate (10/11/23-24 Extended on 8/9/24 to 10/11/25)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-administrator)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-104) $165
