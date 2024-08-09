@@ -4,7 +4,7 @@
 
 | Certification | Cost | Date | Expiration | Extended To |
 | --- | ---:| --- | --- | --- |
-| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 | |
+| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 | 12/6/25 |
 | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- | |
 | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- | |
 | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | 12/8/25 |
@@ -34,13 +34,14 @@
 
 ## Specialty
 
-### ***DP-420 - Azure Cosmos DB Developer Specialty (12/6/23-24)***
+### ***DP-420 - Azure Cosmos DB Developer Specialty (12/6/23-24 Extended on 8/9/24 to 12/6/25)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-cosmos-db-developer-specialty)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/dp-420/) $165
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/dp-420)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/293EEEA3D21E704E?sharingId=670D3D659176C7C3)
 - [My Certificate PDF](./DP-420_2023.pdf)
+- [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/renew)
 
 ## Fundamentals ⭐
 
@@ -104,7 +105,7 @@
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
 
-### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended on 8/9/24 to 8/15/25)***
+### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended on 8/9/24 to 8/16/25)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204) $165
