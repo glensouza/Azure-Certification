@@ -10,7 +10,7 @@
 | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | 12/8/25 |
 | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | 10/11/25 |
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 8/16/2025 |
-| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | 10/11/25 |
 
 ## Scheduled Exams
 
@@ -143,7 +143,7 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-305/practice/assessment?assessment-type=practice&assessmentId=15)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-305-designing-microsoft-azure-infrastructure-solutions)
 
-### ***AZ-400 - DevOps Engineer Expert (9/1/23-10/11/24)***
+### ***AZ-400 - DevOps Engineer Expert (9/1/23-10/11/24 Extended on 8/9/24 to 10/11/25)***
 
 - Pre-requisites: [AZ-104](#az-104---azure-administrator-associate-101123-24) or [AZ-204](#az-204---azure-developer-associate-81623-24)
 - [Certification](https://learn.microsoft.com/en-us/certifications/devops-engineer)
@@ -153,6 +153,7 @@
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/A4292AD2074A690F?sharingId=670D3D659176C7C3)
 - [My Certificate PDF](./AZ-400_2024.pdf)
+- [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/renew)
 
 ### PL-600 - Power Platform Solution Architect Expert
 
