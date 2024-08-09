@@ -104,6 +104,7 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
+- [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/renew)
 
 ### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended on 8/9/24 to 8/16/25)***
 
