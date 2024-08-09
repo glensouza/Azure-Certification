@@ -112,6 +112,7 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
 - [My Certificate PDF](./AZ-204_2024.pdf)
+- [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/renew)
 
 ### DP-300 - Azure Database Administrator Associate
 
