@@ -103,7 +103,7 @@
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
 
-### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended to 10/16/25)***
+### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended on 8/9/24 to 10/11/25)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204) $165
