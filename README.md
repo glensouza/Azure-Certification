@@ -2,15 +2,15 @@
 
 ## [My current certifications](https://learn.microsoft.com/en-us/users/glensouza/credentials?tab=credentials-tab)
 
-| Certification | Cost | Date | Expiration |
-| --- | ---:| --- | --- |
-| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 |
-| [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- |
-| [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- |
-| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 |
-| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 |
-| [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 |
-| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 |
+| Certification | Cost | Date | Expiration | Extended To |
+| --- | ---:| --- | --- | --- |
+| [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24) | $165 | 12/6/23 | 12/6/24 | |
+| [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals-11923) ⭐ | $99 | 11/9/23 | -- | |
+| [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals-62823) ⭐ | $99 | 6/28/23 | -- | |
+| [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate-12823-24) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | |
+| [AZ-104 Azure Administrator](#az-104---azure-administrator-associate-101123-24) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | |
+| [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 10/11/2025 |
+| [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | |
 
 ## Scheduled Exams
 
@@ -103,7 +103,7 @@
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
 
-### ***AZ-204 - Azure Developer Associate (8/16/23-24)***
+### ***AZ-204 - Azure Developer Associate (8/16/23-24 Extended to 10/16/25)***
 
 - [Certification](https://learn.microsoft.com/en-us/certifications/azure-developer)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/az-204) $165
