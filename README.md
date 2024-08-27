@@ -251,6 +251,7 @@
 <summary>Details</summary>
 
 - [GitHub Skills](https://skills.github.com)
+- [GitHub Certifications](https://github.blog/2024-01-08-github-certifications-are-generally-available)
 
 </details>
 
@@ -263,6 +264,7 @@
 - [GitHub Foundations Exam](https://examregistration.github.com/certification/ACTIONS) $99
 - [GitHub Foundations Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
 - [GitHub Foundations Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-foundations.md)
+- LinkedIn Learning: [GitHub Foundations Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification?u=3322)
 
 </details>
 
@@ -272,6 +274,9 @@
 <summary>Details</summary>
 
 - [GitHub Actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5)
+- [GitHub Actions Exam](https://examregistration.github.com/certification/ACTIONS) $99
+- [GitHub Actions Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/2mMJ6nECbUAdiQMTObbPw6/67cfbffa68fed774a1d280c6c1346635/github-actions-exam-preparation-study-guide__3_.pdf)
+- [GitHub Actions Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-actions.md)
 
 </details>
 
@@ -281,6 +286,9 @@
 <summary>Details</summary>
 
 - [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
+- [GitHub Advanced Security Exam](https://examregistration.github.com/certification/GHAS) $99
+- [GitHub Advanced Security Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/fa664e4ba61056df9194331de18aec0b/github-advanced-security-exam-preparation-study-guide__4_.pdf)
+- [GitHub Advanced Security Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-advanced-security.md)
 
 </details>
 
@@ -290,6 +298,9 @@
 <summary>Details</summary>
 
 - [GitHub Administration](https://learn.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03)
+- [GitHub Administration Exam](https://examregistration.github.com/certification/ADMIN) $99
+- [GitHub Administration Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/5zTfUfFWQknwoUVA1SAw0o/16e2f7904ae2f5cdeb7d91ad32d4547e/github-administration-exam-preparation-study-guide__2_.pdf)
+- LinkedIn Learning: [GitHub Administration Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322)
 
 </details>
 
@@ -297,6 +308,9 @@
 
 <details>
 <summary>Details</summary>
+
+- [GitHub Copilot Exam Waitlist](https://examregistration.github.com/waitlist/copilot) $99
+- [GitHub Copilot Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
 
 </details>
 
@@ -308,6 +322,7 @@
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
 - [PSI (Testing)](https://test-takers.psiexams.com/github)
 - [GitHub Certification Handbook](https://examregistration.github.com/handbook)
+- [GitHub Certification FAQ](https://examregistration.github.com/faq)
 - [GitHub Certification Registration](https://examregistration.github.com)
 - [GitHub Certification Study Guide](https://github.com/LadyKerr/github-certification-guide)
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
