@@ -53,8 +53,9 @@
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/dp-420/) $165
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/dp-420)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/293EEEA3D21E704E?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./DP-420_2023.pdf)
+- [My Certificate PDF](./Certificates/DP-420_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/renew)
+- [My Renewal PDF](./Certificates/DP-420_2024.pdf)
 
 </details>
 
@@ -72,7 +73,7 @@
 - [John Savill 1/2](https://youtu.be/E9aarWMLJw0)
 - [John Savill 2/2](https://youtu.be/Ch6KE7KxHGM)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C728DE847B15CCF8?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./AI-900_2023.pdf)
+- [My Certificate PDF](./Certificates/AI-900_2023.pdf)
 
 </details>
 
@@ -87,7 +88,7 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-900/practice/assessment?assessment-type=practice&assessmentId=23)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-900-microsoft-azure-fundamentals-2)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/D9ECFA715A9946FD?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./AZ-900_2023.pdf)
+- [My Certificate PDF](./Certificates/AZ-900_2023.pdf)
 
 </details>
 
@@ -131,8 +132,9 @@
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-exam-ai-102-designing-and-implementing-a-microsoft-azure-ai-solution)
 - [John Savill](https://youtu.be/I7fdWafTcPY)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/156CFC460DF071EB?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./AI-102_2023.pdf)
+- [My Certificate PDF](./Certificates/AI-102_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/renew)
+- [My Renewal PDF](./Certificates/AI-102_2024.pdf)
 
 </details>
 
@@ -147,7 +149,9 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-104/practice/assessment?assessment-type=practice&assessmentId=21)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-104-microsoft-azure-adminstrator-certification-prep)
 - [My Certificate](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/81B494E097466C54?sharingId=670D3D659176C7C3)
+- [My Certificate PDF](./Certificates/AZ-104_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/renew)
+- [My Renewal PDF](./Certificates/AZ-104_2025.pdf)
 
 </details>
 
@@ -162,8 +166,9 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-204/practice/assessment?assessment-type=practice&assessmentId=35)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/developing-solutions-for-microsoft-azure-az-204)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/C9E8B1A6C261C402?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./AZ-204_2024.pdf)
+- [My Certificate PDF](./Certificates/AZ-204_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/renew)
+- [My Renewal PDF](./Certificates/AZ-204_2025.pdf)
 
 </details>
 
@@ -220,8 +225,9 @@
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/az-400/practice/assessment?assessment-type=practice&assessmentId=56)
 - [Pluralsight](https://app.pluralsight.com/library/courses/az-400-designing-implementing-microsoft-devops-solutions)
 - [My Certificate Online](https://learn.microsoft.com/api/credentials/share/en-us/GlenSouza/A4292AD2074A690F?sharingId=670D3D659176C7C3)
-- [My Certificate PDF](./AZ-400_2024.pdf)
+- [My Certificate PDF](./Certificates/AZ-400_2023.pdf)
 - [Renewal](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/renew)
+- [My Renewal PDF](./Certificates/AZ-400_2024.pdf)
 
 </details>
 
@@ -239,12 +245,24 @@
 
 ## GitHub
 
+### GitHub Skills
+
+<details>
+<summary>Details</summary>
+
 - [GitHub Skills](https://skills.github.com)
+
+</details>
 
 ### GitHub Foundations Certification
 
 <details>
 <summary>Details</summary>
+
+- [GitHub Foundations](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+- [GitHub Foundations Exam](https://examregistration.github.com/certification/ACTIONS) $99
+- [GitHub Foundations Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
+- [GitHub Foundations Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-foundations.md)
 
 </details>
 
@@ -288,6 +306,10 @@
 - [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
 - [Practice Tests](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
+- [PSI (Testing)](https://test-takers.psiexams.com/github)
+- [GitHub Certification Handbook](https://examregistration.github.com/handbook)
+- [GitHub Certification Registration](https://examregistration.github.com)
+- [GitHub Certification Study Guide](https://github.com/LadyKerr/github-certification-guide)
 - [Free Certifications](https://github.com/cloudcommunity/Free-Certifications)
 - [Value-Based Delivery (VBD) Accreditations](./VBD.md)
 - [College Credit](https://learn.microsoft.com/en-us/certifications/college-credit)
