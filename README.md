@@ -252,6 +252,9 @@
 
 - [GitHub Skills](https://skills.github.com)
 - [GitHub Certifications](https://github.blog/2024-01-08-github-certifications-are-generally-available)
+- [How to become a certified code champion](https://www.linkedin.com/pulse/how-become-certified-code-champion-github-tolnc)
+
+![Octocat](https://media.licdn.com/dms/image/v2/D5612AQGmA1oVrUXNSw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1723133772198?e=1730332800&v=beta&t=JvPa_XEPjr1twGgILKgJnpgOi7Up1EhDpK_vbEPJ9qg)
 
 </details>
 
