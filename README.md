@@ -12,7 +12,7 @@
 | [AZ-204 Azure Developer](#az-204---azure-developer-associate-81623-24-extended-on-8924-to-81625) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 8/16/25 |
 | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert-9123-101124-extended-on-8924-to-101125) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | 10/11/25 |
 
-## My GitHub Certifications
+## [My GitHub Certifications](https://www.credly.com/users/glensouza)
 
 | Certification | Cost | Date | Expiration |
 | --- | ---:| --- | --- |
