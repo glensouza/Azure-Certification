@@ -16,12 +16,12 @@
 
 | Certification | Cost | Date | Expiration |
 | --- | ---:| --- | --- |
+| [GitHub Foundations](#github-foundations-certification-83024) | $99 | 8/30/24 | 8/30/27 |
 
 ## Scheduled Exams
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [GitHub Foundations](#github-foundations-certification) | $99 | 8/30/24 |
 | [GitHub Actions](#github-actions-certification) | $99 | 9/18/24 |
 | [GitHub Administration](#github-administration-certification) | $99 | 9/20/24 |
 | [GitHub Advanced Security](#github-advanced-security-certification) | $99 | 9/27/24 |
@@ -258,7 +258,7 @@
 
 </details>
 
-### GitHub Foundations Certification
+### GitHub Foundations Certification (8/30/24)
 
 <details>
 <summary>Details</summary>
@@ -268,6 +268,8 @@
 - [GitHub Foundations Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
 - [GitHub Foundations Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-foundations.md)
 - LinkedIn Learning: [GitHub Foundations Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification?u=3322)
+- [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
+- [My Certificate PDF](./Certificates/GitHubFoundations_2024.pdf)
 
 </details>
 
