@@ -323,6 +323,7 @@
 
 - [My LinkedIn](https://www.linkedin.com/in/glensouza)
 - [Microsoft Learn MCID](https://learn.microsoft.com/en-us/users/glensouza)
+- [My Credly](https://www.credly.com/users/glensouza)
 - [Practice Tests](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 - [Pearson * Vue (Testing)](https://home.pearsonvue.com/microsoft)
 - [PSI (Testing)](https://test-takers.psiexams.com/github)
