@@ -282,6 +282,8 @@
 - [GitHub Actions Exam](https://examregistration.github.com/certification/ACTIONS) $99
 - [GitHub Actions Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/2mMJ6nECbUAdiQMTObbPw6/67cfbffa68fed774a1d280c6c1346635/github-actions-exam-preparation-study-guide__3_.pdf)
 - [GitHub Actions Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-actions.md)
+- LinkedIn Learning: [GitHub Actions Cert Prep by Microsoft Press](https://www.linkedin.com/learning/cert-prep-github-actions-by-microsoft-press/introduction)
+- [Practice Exam](https://ghcertified.com/practice_tests/actions)
 
 </details>
 
