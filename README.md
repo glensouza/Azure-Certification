@@ -17,12 +17,12 @@
 | Certification | Cost | Date | Expiration |
 | --- | ---:| --- | --- |
 | [GitHub Foundations](#github-foundations-certification-83024) | $99 | 8/30/24 | 8/30/27 |
+| [GitHub Actions](#github-actions-certification) | $99 | 9/18/24 | 9/18/27 |
 
 ## Scheduled Exams
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [GitHub Actions](#github-actions-certification) | $99 | 9/18/24 |
 | [GitHub Administration](#github-administration-certification) | $99 | 9/20/24 |
 | [GitHub Advanced Security](#github-advanced-security-certification) | $99 | 9/27/24 |
 
@@ -308,6 +308,7 @@
 - [GitHub Administration Exam](https://examregistration.github.com/certification/ADMIN) $99
 - [GitHub Administration Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/5zTfUfFWQknwoUVA1SAw0o/16e2f7904ae2f5cdeb7d91ad32d4547e/github-administration-exam-preparation-study-guide__2_.pdf)
 - LinkedIn Learning: [GitHub Administration Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322)
+- [Practice Exam](https://ghcertified.com/practice_tests/admin)
 
 </details>
 
