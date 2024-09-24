@@ -16,23 +16,23 @@
 
 | Certification | Cost | Date | Expiration |
 | --- | ---:| --- | --- |
-| [GitHub Foundations](#github-foundations-certification-83024) | $99 | 8/30/24 | 8/30/27 |
-| [GitHub Actions](#github-actions-certification) | $99 | 9/18/24 | 9/18/27 |
-| [GitHub Administration](#github-administration-certification) | $99 | 9/20/24 | 9/20/27 |
+| [GitHub Foundations](#github-foundations-certification-83024---83027) | $99 | 8/30/24 | 8/30/27 |
+| [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 |
+| [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 |
 
 ## Scheduled Exams
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [GitHub Advanced Security](#github-advanced-security-certification) | $99 | 9/27/24 |
+| [GitHub Advanced Security](#github-advanced-security-certification-92724) | $99 | 9/27/24 |
 
 ## Next in Queue
 
 | Certification | Cost |
 | --- | ---:|
 | [GitHub Copilot](#github-copilot-certification) | $99 |
-| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-27) ⭐⭐⭐ | $165 |
-| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-220) ⭐ | $99 |
+| [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert) ⭐⭐⭐ | $165 |
+| [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals) ⭐ | $99 |
 | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate) ⭐⭐ | $165 |
 | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals) ⭐ | $99 |
 | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate) ⭐⭐ | $99 |
