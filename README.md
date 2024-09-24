@@ -304,7 +304,7 @@
 
 </details>
 
-### GitHub Advanced Security Certification
+### GitHub Advanced Security Certification *(9/27/24)*
 
 <details>
 <summary>Details</summary>
