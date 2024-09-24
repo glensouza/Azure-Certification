@@ -284,7 +284,7 @@
 - [GitHub Actions Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-actions.md)
 - LinkedIn Learning: [GitHub Actions Cert Prep by Microsoft Press](https://www.linkedin.com/learning/cert-prep-github-actions-by-microsoft-press/introduction)
 - [Practice Exam](https://ghcertified.com/practice_tests/actions)
-- [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
+- [My Certificate Online](https://www.credly.com/badges/984674fd-a650-4968-a23f-fd86badffa9d/public_url)
 - [My Certificate PDF](./Certificates/GitHubActions_2024.pdf)
 
 </details>
@@ -311,7 +311,7 @@
 - [GitHub Administration Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/5zTfUfFWQknwoUVA1SAw0o/16e2f7904ae2f5cdeb7d91ad32d4547e/github-administration-exam-preparation-study-guide__2_.pdf)
 - LinkedIn Learning: [GitHub Administration Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322)
 - [Practice Exam](https://ghcertified.com/practice_tests/admin)
-- [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
+- [My Certificate Online](https://www.credly.com/badges/82c5dc9d-377b-40d3-b612-f54178db5753/public_url)
 - [My Certificate PDF](./Certificates/GitHubAdministration_2024.pdf)
 
 </details>
