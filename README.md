@@ -4,34 +4,34 @@
 
 | Discipline | Certification | Cost | Date | Expiration | Extended To |
 | --- | --- | ---:| --- | --- | --- |
-| AI | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals--11923) ⭐ | $99 | 11/9/23 | -- | |
-| AI | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate--12823-24-extended-on-8924-to-12825) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | 12/8/25 |
-| Azure | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals--62823) ⭐ | $99 | 6/28/23 | -- | |
-| Azure | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate--101123-24-extended-on-8924-to-101125) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | 10/11/25 |
-| Azure | [AZ-204 Azure Developer](#az-204---azure-developer-associate--81623-24-extended-on-8924-to-81625) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 8/16/25 |
-| Azure | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert--9123-101124-extended-on-8924-to-101125) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | 10/11/25 |
-| Data | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24-extended-on-8924-to-12625) | $165 | 12/6/23 | 12/6/24 | 12/6/25 |
-| GitHub | [GitHub Foundations](#github-foundations-certification-83024---83027) | $99 | 8/30/24 | 8/30/27 | |
-| GitHub | [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 | |
-| GitHub | [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 | |
+| [AI](#ai) | [AI-900 Azure AI Fundamentals](#ai-900---azure-ai-fundamentals--11923) ⭐ | $99 | 11/9/23 | -- | |
+| [AI](#ai) | [AI-102 Azure AI Engineer](#ai-102---azure-ai-engineer-associate--12823-24-extended-on-8924-to-12825) ⭐⭐ | $165 | 12/8/23 | 12/8/24 | 12/8/25 |
+| [Azure](#azure) | [AZ-900 Azure Fundamentals](#az-900---azure-fundamentals--62823) ⭐ | $99 | 6/28/23 | -- | |
+| [Azure](#azure) | [AZ-104 Azure Administrator](#az-104---azure-administrator-associate--101123-24-extended-on-8924-to-101125) ⭐⭐ | $165 | 10/11/23 | 10/11/24 | 10/11/25 |
+| [Azure](#azure) | [AZ-204 Azure Developer](#az-204---azure-developer-associate--81623-24-extended-on-8924-to-81625) ⭐⭐ | $165 | 8/16/23 | 8/15/24 | 8/16/25 |
+| [Azure](#azure) | [AZ-400 DevOps Engineer](#az-400---devops-engineer-expert--9123-101124-extended-on-8924-to-101125) ⭐⭐⭐ | $165 | 9/1/23 | 10/11/24 | 10/11/25 |
+| [Data](#data) | [DP-420 Azure Cosmos DB Developer](#dp-420---azure-cosmos-db-developer-specialty-12623-24-extended-on-8924-to-12625) | $165 | 12/6/23 | 12/6/24 | 12/6/25 |
+| [GitHub](#github) | [GitHub Foundations](#github-foundations-certification-83024---83027) | $99 | 8/30/24 | 8/30/27 | |
+| [GitHub](#github) | [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 | |
+| [GitHub](#github) | [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 | |
 
 ## Scheduled Exams
 
 | Discipline | Certification | Cost | Date |
 | --- | --- | ---:| --- |
-| GitHub | [GitHub Advanced Security](#github-advanced-security-certification-92724) | $99 | 9/27/24 |
+| [GitHub](#github) | [GitHub Advanced Security](#github-advanced-security-certification-92724) | $99 | 9/27/24 |
 
 ## Next in Queue
 
 | Discipline | Certification | Cost |
 | --- | --- | ---:|
-| GitHub | [GitHub Copilot](#github-copilot-certification) | $99 |
-| Data | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-) ⭐ | $99 |
-| Power Platform | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals-) ⭐ | $99 |
-| Data | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate-) ⭐⭐ | $165 |
-| Power Platform | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate-) ⭐⭐ | $99 |
-| Azure | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-) ⭐⭐⭐ | $165 |
-| Power Platform | [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert-) ⭐⭐⭐ | $165 |
+| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 |
+| [Data](#data) | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-) ⭐ | $99 |
+| [Power Platform](#power-platform) | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals-) ⭐ | $99 |
+| [Data](#data) | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate-) ⭐⭐ | $165 |
+| [Power Platform](#power-platform) | [PL-400 Power Platform Developer](#pl-400---power-platform-developer-associate-) ⭐⭐ | $99 |
+| [Azure](#azure) | [AZ-305 Azure Solutions Architect](#az-305---azure-solutions-architect-expert-) ⭐⭐⭐ | $165 |
+| [Power Platform](#power-platform) | [PL-600 Power Platform Solution Architect](#pl-600---power-platform-solution-architect-expert-) ⭐⭐⭐ | $165 |
 
 ## Full Picture
 
