@@ -113,8 +113,10 @@
 - [Certification](https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals)
 - [Exams](https://learn.microsoft.com/en-us/certifications/exams/pl-900) $99
 - [Study Guide](https://learn.microsoft.com/en-us/certifications/resources/study-guides/pl-900)
+- [Microsoft Learn - Learning Path](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals)
 - [Practice Test](https://learn.microsoft.com/en-us/certifications/exams/pl-900/practice/assessment?assessment-type=practice&assessmentId=34)
 - [Pluralsight](https://app.pluralsight.com/paths/certificate/microsoft-power-platform-fundamentals-pl-900)
+- [LinkedIn Learning](https://www.linkedin.com/learning/paths/prepare-for-the-microsoft-power-platform-fundamentals-pl-900-certification)
 - [John Savill](https://www.youtube.com/watch?v=lbPHM-MiEUA)
 
 </details>
