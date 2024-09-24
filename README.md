@@ -18,12 +18,12 @@
 | --- | ---:| --- | --- |
 | [GitHub Foundations](#github-foundations-certification-83024) | $99 | 8/30/24 | 8/30/27 |
 | [GitHub Actions](#github-actions-certification) | $99 | 9/18/24 | 9/18/27 |
+| [GitHub Administration](#github-administration-certification) | $99 | 9/20/24 | 9/20/27 |
 
 ## Scheduled Exams
 
 | Certification | Cost | Date |
 | --- | ---:| --- |
-| [GitHub Administration](#github-administration-certification) | $99 | 9/20/24 |
 | [GitHub Advanced Security](#github-advanced-security-certification) | $99 | 9/27/24 |
 
 ## Next in Queue
@@ -284,6 +284,8 @@
 - [GitHub Actions Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-actions.md)
 - LinkedIn Learning: [GitHub Actions Cert Prep by Microsoft Press](https://www.linkedin.com/learning/cert-prep-github-actions-by-microsoft-press/introduction)
 - [Practice Exam](https://ghcertified.com/practice_tests/actions)
+- [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
+- [My Certificate PDF](./Certificates/GitHubActions_2024.pdf)
 
 </details>
 
@@ -309,6 +311,8 @@
 - [GitHub Administration Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/5zTfUfFWQknwoUVA1SAw0o/16e2f7904ae2f5cdeb7d91ad32d4547e/github-administration-exam-preparation-study-guide__2_.pdf)
 - LinkedIn Learning: [GitHub Administration Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-administration-certification?u=3322)
 - [Practice Exam](https://ghcertified.com/practice_tests/admin)
+- [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
+- [My Certificate PDF](./Certificates/GitHubAdministration_2024.pdf)
 
 </details>
 
