@@ -92,7 +92,7 @@
 
 </details>
 
-### DP-900 - Azure Data Fundamentals (*2/20*)
+### DP-900 - Azure Data Fundamentals
 
 <details>
 <summary>Details</summary>
@@ -199,7 +199,7 @@
 
 ## Expert ⭐⭐⭐
 
-### AZ-305 - Azure Solutions Architect Expert (*2/7*)
+### AZ-305 - Azure Solutions Architect Expert
 
 <details>
 <summary>Details</summary>
@@ -258,7 +258,7 @@
 
 </details>
 
-### GitHub Foundations Certification (8/30/24)
+### ***GitHub Foundations Certification (8/30/24 - 8/30/27)***
 
 <details>
 <summary>Details</summary>
@@ -273,7 +273,7 @@
 
 </details>
 
-### GitHub Actions Certification
+### ***GitHub Actions Certification (9/18/24 - 9/8-27)***
 
 <details>
 <summary>Details</summary>
@@ -289,19 +289,7 @@
 
 </details>
 
-### GitHub Advanced Security Certification
-
-<details>
-<summary>Details</summary>
-
-- [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
-- [GitHub Advanced Security Exam](https://examregistration.github.com/certification/GHAS) $99
-- [GitHub Advanced Security Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/fa664e4ba61056df9194331de18aec0b/github-advanced-security-exam-preparation-study-guide__4_.pdf)
-- [GitHub Advanced Security Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-advanced-security.md)
-
-</details>
-
-### GitHub Administration Certification
+### ***GitHub Administration Certification (9/20/24 - 9/20-27)***
 
 <details>
 <summary>Details</summary>
@@ -313,6 +301,18 @@
 - [Practice Exam](https://ghcertified.com/practice_tests/admin)
 - [My Certificate Online](https://www.credly.com/badges/82c5dc9d-377b-40d3-b612-f54178db5753/public_url)
 - [My Certificate PDF](./Certificates/GitHubAdministration_2024.pdf)
+
+</details>
+
+### GitHub Advanced Security Certification
+
+<details>
+<summary>Details</summary>
+
+- [GitHub Advanced Security](https://learn.microsoft.com/en-us/users/githubtraining/collections/rqymc6yw8q5rey)
+- [GitHub Advanced Security Exam](https://examregistration.github.com/certification/GHAS) $99
+- [GitHub Advanced Security Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/fa664e4ba61056df9194331de18aec0b/github-advanced-security-exam-preparation-study-guide__4_.pdf)
+- [GitHub Advanced Security Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-advanced-security.md)
 
 </details>
 
