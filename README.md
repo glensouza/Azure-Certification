@@ -311,6 +311,8 @@
 - [GitHub Advanced Security Exam](https://examregistration.github.com/certification/GHAS) $99
 - [GitHub Advanced Security Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/4WQrNeENScZlISZKdknVbK/fa664e4ba61056df9194331de18aec0b/github-advanced-security-exam-preparation-study-guide__4_.pdf)
 - [GitHub Advanced Security Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-advanced-security.md)
+- LinkedIn Learning: [GitHub Advanced Security (GHAS)](https://www.linkedin.com/learning/github-advanced-security-ghas/general-overview-of-github-advanced-security)
+- [Practice Exam](https://ghcertified.com/practice_tests/advanced_security)
 
 </details>
 
