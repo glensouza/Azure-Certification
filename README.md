@@ -14,18 +14,18 @@
 | [GitHub](#github) | [GitHub Foundations](#github-foundations-certification-83024---83027) | $99 | 8/30/24 | 8/30/27 | |
 | [GitHub](#github) | [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 | |
 | [GitHub](#github) | [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 | |
+| [GitHub](#github) | [GitHub Advanced Security](#github-advanced-security-certification-92724---92727) | $99 | 9/27/24 | 9/27/27 | |
 
 ## Scheduled Exams
 
 | Discipline | Certification | Cost | Date |
 | --- | --- | ---:| --- |
-| [GitHub](#github) | [GitHub Advanced Security](#github-advanced-security-certification-92724) | $99 | 9/27/24 |
+| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 | Oct 2024 |
 
 ## Next in Queue
 
 | Discipline | Certification | Cost |
 | --- | --- | ---:|
-| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 |
 | [Data](#data) | [DP-900 Azure Data Fundamentals](#dp-900---azure-data-fundamentals-) ⭐ | $99 |
 | [Power Platform](#power-platform) | [PL-900 Power Platform Fundamentals](#pl-900---power-platform-fundamentals-) ⭐ | $99 |
 | [Data](#data) | [DP-300 Azure Database Administrator](#dp-300---azure-database-administrator-associate-) ⭐⭐ | $165 |
@@ -258,6 +258,8 @@
 
 ### ***GitHub Foundations Certification (8/30/24 - 8/30/27)***
 
+![GitHub Foundations](./Certificates/github-foundations.png)
+
 <details>
 <summary>Details</summary>
 
@@ -272,6 +274,8 @@
 </details>
 
 ### ***GitHub Actions Certification (9/18/24 - 9/8-27)***
+
+![GitHub Actions](./Certificates/github-actions.png)
 
 <details>
 <summary>Details</summary>
@@ -289,6 +293,8 @@
 
 ### ***GitHub Administration Certification (9/20/24 - 9/20-27)***
 
+![GitHub Administration](./Certificates/github-administration.png)
+
 <details>
 <summary>Details</summary>
 
@@ -302,7 +308,9 @@
 
 </details>
 
-### GitHub Advanced Security Certification *(9/27/24)*
+### *GitHub Advanced Security Certification (9/27/24 - 9/27/27)*
+
+![GitHub Advanced Security](./Certificates/github-advanced-security.png)
 
 <details>
 <summary>Details</summary>
@@ -313,6 +321,8 @@
 - [GitHub Advanced Security Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-advanced-security.md)
 - LinkedIn Learning: [GitHub Advanced Security (GHAS)](https://www.linkedin.com/learning/github-advanced-security-ghas/general-overview-of-github-advanced-security)
 - [Practice Exam](https://ghcertified.com/practice_tests/advanced_security)
+- [My Certificate Online](https://www.credly.com/badges/78119e39-b08c-40a4-806a-1ca497ada31a/public_url)
+- [My Certificate PDF](./Certificates/GitHubAdvancedSecurity_2024.pdf)
 
 </details>
 
