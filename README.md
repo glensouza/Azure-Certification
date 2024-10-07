@@ -268,6 +268,7 @@
 - [GitHub Foundations Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
 - [GitHub Foundations Study Guide](https://github.com/LadyKerr/github-certification-guide/blob/main/study-guides/gh-foundations.md)
 - LinkedIn Learning: [GitHub Foundations Prep Course](https://www.linkedin.com/learning/paths/prepare-for-the-github-foundations-certification?u=3322)
+- [Practice Test](https://ghcertified.com/practice_tests/foundations)
 - [My Certificate Online](https://www.credly.com/badges/3e3d6d13-7160-438e-9d0f-d80193ca1afd/public_url)
 - [My Certificate PDF](./Certificates/GitHubFoundations_2024.pdf)
 
