@@ -15,12 +15,12 @@
 | [GitHub](#github) | [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 | |
 | [GitHub](#github) | [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 | |
 | [GitHub](#github) | [GitHub Advanced Security](#github-advanced-security-certification-92724---92727) | $99 | 9/27/24 | 9/27/27 | |
+| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 | 11/8/24 | 11/8/27 | |
 
 ## Scheduled Exams
 
 | Discipline | Certification | Cost | Date |
 | --- | --- | ---:| --- |
-| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 | Oct 2024 |
 
 ## Next in Queue
 
@@ -327,13 +327,18 @@
 
 </details>
 
-### GitHub Copilot Certification
+### *GitHub Copilot Certification (11/8/24 - 11/8/27)*
+
+![GitHub Copilot](./Certificates/github-copilot.png)        
 
 <details>
 <summary>Details</summary>
 
-- [GitHub Copilot Exam Waitlist](https://examregistration.github.com/waitlist/copilot) $99
+- [GitHub Copilot](https://learn.microsoft.com/en-us/training/paths/copilot)
+- [GitHub Copilot Exam](https://examregistration.github.com/certification/COPILOT) $99
 - [GitHub Copilot Study Guide](https://assets.ctfassets.net/wfutmusr1t3h/3i7ISEUsTLBgOGrWrML07y/dd586e2b2b607988e2679ed8cce36a76/github-copilot-exam-preparation-study-guide.pdf)
+- [My Certificate Online](https://www.credly.com/badges/ef5a0fa7-702e-413f-9508-6706b96b3882/public_url)
+- [My Certificate PDF](./Certificates/GitHubCopilot_2024.pdf)
 
 </details>
 
