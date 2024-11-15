@@ -15,7 +15,7 @@
 | [GitHub](#github) | [GitHub Actions](#github-actions-certification-91824---98-27) | $99 | 9/18/24 | 9/18/27 | |
 | [GitHub](#github) | [GitHub Administration](#github-administration-certification-92024---920-27) | $99 | 9/20/24 | 9/20/27 | |
 | [GitHub](#github) | [GitHub Advanced Security](#github-advanced-security-certification-92724---92727) | $99 | 9/27/24 | 9/27/27 | |
-| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification) | $99 | 11/8/24 | 11/8/27 | |
+| [GitHub](#github) | [GitHub Copilot](#github-copilot-certification-11824---11827) | $99 | 11/8/24 | 11/8/27 | |
 
 ## Scheduled Exams
 
@@ -329,7 +329,7 @@
 
 ### *GitHub Copilot Certification (11/8/24 - 11/8/27)*
 
-![GitHub Copilot](./Certificates/github-copilot.png)        
+![GitHub Copilot](./Certificates/github-copilot.png)
 
 <details>
 <summary>Details</summary>
